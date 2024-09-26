@@ -1,0 +1,2 @@
+color ;footer+header, #102719, 
+background; #5dc787
